@@ -34,3 +34,7 @@
 <p align="center">
     ![alt DEVELOVERZ](https://i.pinimg.com/originals/b4/72/a1/b472a187696137c70e6456450b99c351.gif)
 </p>
+
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
