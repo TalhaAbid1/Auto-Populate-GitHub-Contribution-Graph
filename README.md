@@ -2,7 +2,7 @@
 - A Small Contribution To GitHub Community, To  Auto Fill Up GitHub Contribution Graph Of Previous Dates By **DEVELOVERZ**
 
 <p align="center">
-    ![alt DEVELOVERZ](./res/cover.png)
+    ![alt text](./res/cover.png)
 </p>
 
 > **Warning**   
